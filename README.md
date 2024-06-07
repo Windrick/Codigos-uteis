@@ -1,3 +1,11 @@
+# Salvando Alterações no Repositório Local
+
+Resumos sobre a aula "Salvando Alterações no Repositório Local" 
+
+## 📚 DOCUMENTAÇÃO
+
+- [Documentação Github](https://docs.github.com/pt)
+
 ## 🖥RESUMOS DAS AULAS
 
 |CODIGOS | UTILIDADES |
@@ -15,4 +23,6 @@
 |git branch | permite criar, listar, renomear e excluir ramificações|
 |git checkout| permite navegar entre ramificações criadas pelo git branch|
 |git merge|Mesclagem é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.|
+|git remote|uma interface para gerenciar uma lista de entradas remotas que são armazenadas no arquivo ./. git/config do repositório|
+|git push origin "nome da branch"|é um comando essencial para o trabalho colaborativo e o controle de versão de projetos de software. Ele permite que as alterações feitas em um repositório local sejam enviadas para um repositório remoto, garantindo a sincronização e o compartilhamento das alterações entre os membros da equipe.|
 |**Repositorio remoto**|[Sobre](https://docs.github.com/pt/get-started/getting-started-with-git/about-remote-repositories)|
